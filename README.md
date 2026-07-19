@@ -4,8 +4,6 @@ A small Excel portfolio project analyzing budgeted and actual expenditure across
 
 ## Dashboard
 
-## Dashboard
-
 ![Dashboard page 1](dashboard page1.png)
 
 ![Dashboard page 2](dashboard page2.png)
